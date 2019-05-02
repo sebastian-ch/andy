@@ -5,9 +5,7 @@ html {
 
 .fade-in {
     animation: fadeIn ease 4s;
-   
   }
-  
   
   @keyframes fadeIn{
     0% {
@@ -48,15 +46,13 @@ html {
     color: black;
 }
 
-.item {}
-
 #main {
     padding-top: 20px;
-  
     width: 80%;
     text-align: center;
 }
 
 #footer {
     padding-top: 5px;
+    padding-bottom: 5px;
 }
