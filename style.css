@@ -5,16 +5,18 @@ html {
 
 .fade-in {
     animation: fadeIn ease 4s;
-  }
-  
-  @keyframes fadeIn{
+}
+
+@keyframes fadeIn {
     0% {
-      opacity:0;
+        opacity: 0;
     }
+
     100% {
-      opacity:1;
+        opacity: 1;
     }
-  }
+}
+
 .container {
 
     display: flex;
@@ -30,10 +32,8 @@ html {
 }
 
 .nav-item {
-
     padding-left: 10px;
     padding-right: 10px;
-
 }
 
 .nav-item:hover {
